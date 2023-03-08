@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo dulur dan kawan-kawan, 👋 saya rifqi munawar
 
 <!--
 **rifqimunawar/rifqimunawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,17 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+adalah seorang mahasiswa yang sedang menempuh pendidikan s1 teknik informatika di salah satu universitas di kota Bandung
+
+<!--
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact
+-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100006320441166&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifqi_munawar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rifqi_munawar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rifqi_munawar47) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@RifqiMunawar) 
