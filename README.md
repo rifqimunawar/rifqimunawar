@@ -1,5 +1,6 @@
+<h1 align="center"><b>Hi, I'm Mathew Darren</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Hello and welcome to my GitHub profile!, 👋
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+Intern+at+PT+Vidio+Dot+Com;Data+Analyst+Freelance+on+Fastwork;Statistics+Student+at+Diponegoro+University" alt="Typing SVG" /></a></p>
 
 <!--
 **rifqimunawar/rifqimunawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
