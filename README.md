@@ -6,19 +6,18 @@
 **rifqimunawar/rifqimunawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-My name is Rifqi Munawar Ridwan. <br>I was born in Cianjur, West Java. <br>Currently, I am studying Computer Science at Universitas Islam Nusantara. <br>As a programmer, I have a strong passion for coding and web development. <br>I also enjoy exploring new technologies and constantly expanding my knowledge. <br>Being a programmer allows me to unleash my creativity and problem-solving skills. <br>In addition to coding, I have an interest in video editing as well. <br>I believe in lifelong learning and strive to keep up with the ever-evolving field of technology.
+### 💫 About Me:
+
+👋 Hi, I'm Rifqi Munawar.
+🏡 Currently, I am located in Bandung, West Java.
+🏫 I am currently studying at the Islamic University of Nusantara.
+🌱 I am currently learning fullstack web development.
+📫 You can reach me at Email - rifqimunawar47@gmail.com.
+💞️ I am interested in collaborating with any local/overseas companies.
+
+
 
 
 ## 🌐 Socials:
@@ -26,16 +25,21 @@ My name is Rifqi Munawar Ridwan. <br>I was born in Cianjur, West Java. <br>Curre
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rifqimunawar&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifqimunawar&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimunawar&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rifqimunawar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+<!--
+### 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=rifqi_munawar47)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
